@@ -1,0 +1,13 @@
+h1 {
+    color:  black ;
+    font-size: 54px;
+}
+
+p{
+    color: rgb(19, 15, 253);
+    font-size: 20px;
+}
+
+body {
+    background-color: rgb(54, 54, 54);
+}
